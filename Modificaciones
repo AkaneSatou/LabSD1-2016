@@ -9,3 +9,8 @@ Quería almacenar los nodos en donde se encontraban las coincidencias, pero no s
 Se imprime solo el id del nodo, ya que no supe si imprimir el index (entiendo que es por la posición), 
 o el id long (que entiendo, es su id único que se trunca y se encripta), asique solo imprime el id del nodo consulta 
 cuando es encontrado en la lista. 
+
+
+
+
+------------Corre solo con archivo de configuración example.cfg------------
