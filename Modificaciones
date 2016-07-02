@@ -1,0 +1,11 @@
+Se creó una instancia de Consulta llamado a en la clase trafficGenerator
+Se creó una variable prefix en trafficGenerator para asignar al prefix que venía de la otra clase
+Se iguala el body de consulta a con un mensaje random de la lista
+Si son iguales, se imprime que se encontró el mensaje y en el nodo con el id _____
+
+Para ello, se cambió mensaje a public en vez de private
+Además de ello, se realizó un diagrama de clases rápido para entender de donde partía el código. (adjunto)
+Quería almacenar los nodos en donde se encontraban las coincidencias, pero no se pudo porque eran de formato long, asi que se imprimen en medio de la ejecución.
+Se imprime solo el id del nodo, ya que no supe si imprimir el index (entiendo que es por la posición), 
+o el id long (que entiendo, es su id único que se trunca y se encripta), asique solo imprime el id del nodo consulta 
+cuando es encontrado en la lista. 
